@@ -8,12 +8,6 @@ Diagrams about your code can be helpful in lots of situations like reverse engen
 
 **Clograms** tries to help with this tasks by combining the visualization capabilities of a diagram application with the navigation/exploration features of IDEs.
 
-## How does it look?
-
-<img src="/docs/screenshot-zoom-out.png?raw=true"/>
-
-<img src="/docs/screenshot-zoom-in.png?raw=true"/>
-
 ## Features
 
 - **Scan** and **index** your lein and deps.edn projects
